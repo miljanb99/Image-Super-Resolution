@@ -2,7 +2,7 @@
 
 Projekat iz predmeta Mašinsko učenje, školske 2023/2024 godine na master studijama Matematičkog fakulteta.
 
-Projekat koristi SRCNN kako bi poboljšao kvalitet slika niske rezolucije. Model je treniran na DIV2K dataset-u, a evaluacija modela se vrsila koriscenjem Peak Signal-to-Nose Ratio (PSNR) metrike.
+Projekat koristi SRCNN kako bi poboljšao kvalitet slika niske rezolucije. Model je treniran na DIV2K dataset-u, a evaluacija modela se vršila korišcenjem Peak Signal-to-Nose Ratio (PSNR) metrike.
 
 Autori: Miljan Bakić i Stevan Dragović
 
